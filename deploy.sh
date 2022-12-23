@@ -5,4 +5,8 @@ deploy in the dev env
 deployment5 master
 =======
 deployment4
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+deploy in the dev env
 >>>>>>> dev
